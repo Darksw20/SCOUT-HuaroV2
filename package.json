@@ -1,0 +1,23 @@
+{
+  "name": "huarov2",
+  "version": "1.0.0",
+  "description": "New Product using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ricardo Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darksw20/HuaroV2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Darksw20/HuaroV2/issues"
+  },
+  "homepage": "https://github.com/Darksw20/HuaroV2#readme"
+}
